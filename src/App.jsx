@@ -1,8 +1,12 @@
+
+import Navbar from "./Components/Navbar";
+
 const App = () =>{
 
   return (
     <>
-    <div className="text-5xl">hello world</div>; 
+    <Navbar/>
+    
     </>
   );
 };
